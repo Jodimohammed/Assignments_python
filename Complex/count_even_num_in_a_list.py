@@ -2,7 +2,7 @@
 
 import random
 
-# Generating a random list of numbers  and then 
+# Generating a random list of numbers  and then  putting them in a list
 random_list = [random.randint(1,50) for _ in range(10)]  
 
 # Counting the number of even numbers in the list
