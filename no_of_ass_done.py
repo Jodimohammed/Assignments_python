@@ -1,6 +1,6 @@
 #file of how many i have done with in the assignments
 
 
-no = 32
+no = 37
 
 total =  100
