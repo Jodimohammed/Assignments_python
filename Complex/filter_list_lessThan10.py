@@ -15,4 +15,4 @@ for num in random_list :
        greater_than10.append(num) 
        
 
-print("Numbers greater than 10 in the list: " ,greater_than10)
+print("Numbers greater than 10 in the list: " ,*greater_than10)
