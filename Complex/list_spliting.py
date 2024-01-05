@@ -1,4 +1,4 @@
-#python program that splits a list in two halfs
+#python program that splits a list in two halfs e.g [1,2,3,4] = [1,2] , [3,4]
 
 def split_list(input_list):
     length = len(input_list)

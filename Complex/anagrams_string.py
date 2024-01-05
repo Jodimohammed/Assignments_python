@@ -1,4 +1,4 @@
-#python progam to check for anagrams in a list
+#python program to check for anagrams in a list
 
 def anagrams(str1, str2):
     # Remove spaces and punctuation, convert to lowercase
