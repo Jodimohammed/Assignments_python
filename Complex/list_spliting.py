@@ -1,3 +1,5 @@
+#python program that splits a list in two halfs
+
 def split_list(input_list):
     length = len(input_list)
     half = length // 2
@@ -8,10 +10,10 @@ def split_list(input_list):
     
     return first_half, second_half
 
-# Example list
-my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 # Splitting the list
-first, second = split_list(my_list)
+first, second = split_list(list)
 print("First half:", first)
 print("Second half:", second)
