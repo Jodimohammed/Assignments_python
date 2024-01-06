@@ -1,5 +1,5 @@
+#python program for simple ATM machine performing deposit,withdraw,transactions functions .
 
- #python program for simple ATM machine performing deposit,withdraw,transactions functions .
 balance = 0
 
 transactions = []
