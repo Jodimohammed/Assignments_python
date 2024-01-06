@@ -9,7 +9,7 @@ def anagrams(str1, str2):
     sorted_str1 = sorted(str1)
     sorted_str2 = sorted(str2)
 
-    # Compare the sorted strings
+
     return sorted_str1 == sorted_str2
 
 
