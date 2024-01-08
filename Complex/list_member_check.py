@@ -1,3 +1,5 @@
+#python program to check if a list has at least one common member.....
+
 fir_list = [1,2,3,4,5]
 sec_list = [1,2,9,5,0]
 
